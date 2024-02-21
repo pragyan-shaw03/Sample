@@ -1,4 +1,4 @@
-# TaskQuest - Task Management System
+# Task Management System
 
 TaskQuest is a simple command-line task management application written in Java. It allows users to organize and manage their tasks efficiently. This README file provides an overview of the code structure, classes used, and how to use the application.
 
